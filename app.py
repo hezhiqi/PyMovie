@@ -5,7 +5,6 @@ import re
 site = 'http://www.ygdy8.net'
 lineNo = 1
 
-
 class Movie:
 
     def __init__(self, name, url, score, link):
